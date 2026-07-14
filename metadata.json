@@ -1,0 +1,6 @@
+{
+  "name": "Nexus AI",
+  "description": "An advanced AI model comparison, multi-pane workspace, and generation studio command center powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
